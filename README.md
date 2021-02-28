@@ -1,5 +1,5 @@
 # AutoShopVacSwitch
-Simple yet very useful tool for every builder or maker. 
+**Simple yet very useful tool for every builder or maker. **
 
 
 Automated vacuum cleaner is device which automatically turns on the cleaner when you turn on e.g. power drill, angle grinder, saw etc.
